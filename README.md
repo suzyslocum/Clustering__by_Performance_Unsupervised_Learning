@@ -1,7 +1,7 @@
 # challenge_10
 Module 10 Challenge Assignment
 
-# # Clustering Cryptocurrencies by Performance Using Unsupervised Learning
+## Clustering Cryptocurrencies by Performance Using Unsupervised Learning
 This is a Python application written with Pandas in Jupyter Lab. It uses the Pandas to create a DataFrame from a provided CSV file, and prepare the data by scaling it using the StandardScaler module. We use KMeans to cluster the data, and the elbow method is used to determine the best value for k. The clusters are then optimized using principal component analysis, and HvPlot is used to create interactive graphs to examine the data.
 
 ![Market Data](/Images/Market_Data.jpg)
